@@ -1,0 +1,5 @@
+C:\Users\Sony\documents\visual studio 2013\Projects\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.exe
+C:\Users\Sony\documents\visual studio 2013\Projects\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.pdb
+C:\Users\Sony\documents\visual studio 2013\Projects\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.csprojResolveAssemblyReference.cache
+C:\Users\Sony\documents\visual studio 2013\Projects\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.exe
+C:\Users\Sony\documents\visual studio 2013\Projects\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.pdb
